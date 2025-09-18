@@ -1,6 +1,12 @@
 # 💫 About Me:
-I'm a passionate Web Developer with a strong interest in frontend and backend technologies. Currently, I'm working on a Full Stack project, where I focus on building clean, responsive, and user-friendly interfaces.<br><br>I'm a student at the Indian Institute of Information Technology, Jabalpur (Batch 2027), and I'm always looking to expand my knowledge in web development and modern JavaScript frameworks.<br><br>🔭 Currently working on: A project integrating AI models with web dev applications<br><br>🌱 Learning: Backend Development (Nodejs and Expressjs) , Databases and Authentication/Authorisation for Full Stack projects<br><br>💬 Ask me about: HTML, CSS, JavaScript, React, and frontend tools<br><br>📫 How to reach me: Email: yash.vasu2820@gmail.com<br><br>⚡ Fun fact: I love exploring new UIs and design inspirations on UIverse, and experimenting with them in my own projects.
+I'm a passionate Full Stack Web Developer with a strong interest in building scalable, user-centric applications. I enjoy working across the stack—creating clean, responsive frontends and developing robust, efficient backends.
 
+🔭 Currently working on: Integrating AI models with full-stack web applications
+🌱 Learning: Advanced Backend Development (Node.js, Express.js), Databases, and Authentication/Authorization workflows
+💬 Ask me about: HTML, CSS, JavaScript, React, Node.js, Express.js, and modern frontend tools
+📫 Reach me at: yash.vasu2820@gmail.com
+
+⚡ Fun fact: I love exploring creative UI inspirations on UIverse and blending them with modern backend workflows to craft complete applications
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-srivastava-771315358/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://folio-yash.netlify.app/) [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:yash.vasu2820@gmail.com)
