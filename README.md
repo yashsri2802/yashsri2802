@@ -8,7 +8,7 @@ I'm a passionate Full Stack Web Developer with a strong interest in building sca
 
 ⚡ Fun fact: I love exploring creative UI inspirations on UIverse and blending them with modern backend workflows to craft complete applications.
 
-# 🏅 Badges
+## 🏅 Badges:
 [![An image of @yashsri2802's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashsri2802)](https://holopin.io/@yashsri2802)
 
 ## 🌐 Socials:
