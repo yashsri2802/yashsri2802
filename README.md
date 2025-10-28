@@ -9,7 +9,15 @@ I'm a passionate Full Stack Web Developer with a strong interest in building sca
 ⚡ Fun fact: I love exploring creative UI inspirations on UIverse and blending them with modern backend workflows to craft complete applications.
 
 ## 🏅 Badges:
-[![An image of @yashsri2802's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashsri2802)](https://holopin.io/@yashsri2802)
+<p align="center">
+  <a href="https://holopin.io/@yashsri2802">
+    <img src="https://holopin.me/yashsri2802" alt="@yashsri2802's Holopin badges" />
+  </a>
+  <br>
+  <span style="font-size:14px; color:#c9d1d9; font-family:'Segoe UI', sans-serif;">
+    <i>Hacktoberfest 2025</i>
+  </span>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-srivastava-771315358/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://folio-yash.netlify.app/) [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:yash.vasu2820@gmail.com)
