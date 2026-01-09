@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="1000" height="500" alt="Chilling Mario GIF">
+  <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="1000" height="300" alt="Chilling Mario GIF">
 </p>
 
 # 💫 About Me:
