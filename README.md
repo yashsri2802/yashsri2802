@@ -1,4 +1,4 @@
-![Pixel Art Banner](https://www.behance.net/gallery/165684019/Chill-Bros/modules/934397723)
+![Pixel Art Banner](https://www.pinterest.com/pin/chilling-mario-pixel-art--1082623197898058218/)
 
 # 💫 About Me:
 I'm a passionate Full Stack Web Developer with a strong interest in building scalable, user-centric applications. I enjoy working across the stack—creating clean, responsive frontends and developing robust, efficient backends.
