@@ -10,8 +10,8 @@
 I'm a passionate Full Stack Web Developer with a strong interest in building scalable, user-centric applications. I enjoy working across the stack—creating clean, responsive frontends and developing robust, efficient backends.
 
 🔭 Currently working on: Integrating AI models with full-stack web applications</br>
-🌱 Learning: Advanced Backend Development, Databases, and Authentication/Authorization workflows</br>
-💬 Ask me about: HTML, CSS, JavaScript, React, Node.js, Express.js, and modern frontend tools</br>
+🌱 Learning: Advanced Full-Stack Development, Scalable Backend Systems, Cloud Deployment (AWS), and System Design  
+💬 Ask me about: HTML, CSS, JavaScript, React, Node.js, Express.js, REST APIs, and modern full-stack tools
 📫 Reach me at: yash.vasu2820@gmail.com
 
 ⚡ Fun fact: I love exploring creative UI inspirations on UIverse and blending them with modern backend workflows to craft complete applications.
