@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.behance.net/gallery/87602523/Chill-Mario/modules/506717475 alt="Chilling Mario GIF">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/22b22287602523.5dbd29081561d.gif" alt="Chilling Mario GIF">
 </p>
 
 # 💫 About Me:
