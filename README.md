@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/22b22287602523.5dbd29081561d.gif" alt="Chilling Mario GIF">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/22b22287602523.5dbd29081561d.gif"
+       width="100%"
+       style="max-width:850px;">
 </p>
+
 
 # 💫 About Me:
 I'm a passionate Full Stack Web Developer with a strong interest in building scalable, user-centric applications. I enjoy working across the stack—creating clean, responsive frontends and developing robust, efficient backends.
