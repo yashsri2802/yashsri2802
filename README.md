@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height=200 width=900 alt="Chilling Mario GIF">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8v9qWxMMJKNLBC1s6VTfp4vtUfU1OypECsg&s alt="Chilling Mario GIF">
 </p>
 
 # 💫 About Me:
