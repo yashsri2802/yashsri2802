@@ -1,154 +1,52 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Yash%20Srivastava&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Open+Source+Contributor;Hackathon+Builder;Building+Scalable+Web+Apps" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/22b22287602523.5dbd29081561d.gif"
+       width="100%"
+       height=600
+       style="max-width:850px;">
 </p>
 
----
 
+# 💫 About Me:
+I'm a passionate Full Stack Web Developer with a strong interest in building scalable, user-centric applications. I enjoy working across the stack—creating clean, responsive frontends and developing robust, efficient backends.
+
+🔭 Currently working on: Integrating AI models with full-stack web applications</br>
+🌱 Learning: Advanced Full-Stack Development, Scalable Backend Systems, Cloud Deployment (AWS), and System Design  
+💬 Ask me about: JavaScript, React, Node.js, Express.js, REST APIs, modern full-stack tools (DevOps, Cloud), Hackathons, open source, and learning web development
+📫 Reach me at: ysrivastava.work@gmail.com
+
+⚡ Fun fact: I love exploring creative UI inspirations on UIverse and blending them with modern backend workflows to craft complete applications.
+
+## 🏅 Badges:
 <p align="center">
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/22b22287602523.5dbd29081561d.gif" width="850"/>
+  <a href="https://holopin.io/@yashsri2802">
+    <img src="https://holopin.me/yashsri2802" alt="@yashsri2802's Holopin badges" />
+  </a>
+  <br>
+  <span style="font-size:14px; color:#c9d1d9; font-family:'Segoe UI', sans-serif;">
+    <i>Hacktoberfest 2025</i>
+  </span>
 </p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-srivastava-771315358/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://folio-yash.netlify.app/) [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:ysrivastava.work@gmail.com)
 
-# 💫 About Me
+## 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/) [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org/) [![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 
-💻 Passionate **Full Stack Developer** building scalable web applications  
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yashsri2802&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yashsri2802&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashsri2802&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-🔭 Currently working on  
-**Integrating AI models with full stack web applications**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yashsri2802&theme=nightowl&no-frame=false&no-bg=true&margin-w=4)
 
-🌱 Currently learning  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-• Advanced Full Stack Development  
-• System Design  
-• Cloud Deployment (AWS)  
-• Scalable Backend Systems  
-
-💬 Ask me about  
-
-HTML • CSS • JavaScript • React • Node.js • Express • REST APIs  
-
-📫 Reach me at  
-
-**yash.vasu2820@gmail.com**
-
-⚡ Fun fact  
-
-I love exploring **UIverse animations and creative UI ideas** and combining them with modern backend workflows.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=yashsri2802&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=yashsri2802&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🏅 Hacktoberfest Badges
-
-<p align="center">
-<a href="https://holopin.io/@yashsri2802">
-<img src="https://holopin.me/yashsri2802"/>
-</a>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/yash-srivastava-771315358/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://folio-yash.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:yash.vasu2820@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,js,python,html,css,react,nodejs,express,mongodb,mysql,postgres,docker,git,github,vite,tailwind,postman&perline=9"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yashsri2802&show_icons=true&theme=nightowl&rank_icon=github"/>
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsri2802&layout=compact&theme=nightowl"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=yashsri2802&theme=nightowl"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yashsri2802&theme=nightowl&margin-w=8"/>
-
-</p>
-
----
-
-# 🔝 Top Contributed Repositories
-
-<p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=yashsri2802&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-
-</p>
-
----
-
-# ✍️ Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=yashsri2802&icon=5&color=6"/>
-
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
