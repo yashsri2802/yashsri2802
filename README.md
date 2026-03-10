@@ -84,7 +84,8 @@ I love exploring **UIverse animations and creative UI ideas** and combining them
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashsri2802&show_icons=true&theme=nightowl&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yashsri2802&show_icons=true&theme=nightowl&rank_icon=github"/>
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsri2802&layout=compact&theme=nightowl"/>
 
