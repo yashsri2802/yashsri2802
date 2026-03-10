@@ -2,7 +2,6 @@
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/22b22287602523.5dbd29081561d.gif" width="600"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Yash Srivastava</h1>
 <h3 align="center">Full Stack Developer | MERN Stack | Open Source Contributor</h3>
 
 ---
