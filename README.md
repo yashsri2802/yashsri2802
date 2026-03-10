@@ -25,11 +25,7 @@ I love working **across the stack** - designing smooth frontends and building ef
 
 ## 🏅 Hacktoberfest Badges
 
-<p align="center">
-  <a href="https://holopin.io/@yashsri2802">
-    <img src="https://holopin.me/yashsri2802" />
-  </a>
-</p>
+[![An image of @yashsri2802's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashsri2802)](https://holopin.io/@yashsri2802)
 
 <p align="center">
 Hacktoberfest 2025
